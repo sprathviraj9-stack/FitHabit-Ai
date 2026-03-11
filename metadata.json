@@ -1,0 +1,5 @@
+{
+  "name": "ConsistencyAI: Fitness Behavior Coach",
+  "description": "An AI-powered fitness behavior coach that analyzes your habits to identify why you skip workouts and helps you build long-term consistency.",
+  "requestFramePermissions": []
+}
